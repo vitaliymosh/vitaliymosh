@@ -8,9 +8,9 @@ While I have a strong focus on front-end development, I've also dabbled in backe
 ## Tech Stack
 - **Languages:** JavaScript (JS), TypeScript (TS)
 - **Frameworks & Libraries:** React, Redux, Next.js, Gatsby
-- **UI Design:** HTML5, Material-UI (MUI), styled-components, CSS, SASS/LESS
+- **UI Design:** HTML5, Material-UI (MUI), styled-components, CSS, SASS/LESS, tailwind
 - **Data Fetching:** Redux Thunk/Saga, React Query, Axios
-- **Backend & APIs:** Express.js, gRPC
+- **Backend & APIs:** Express.js, gRPC, REST API
 
 ## What I'm up to
 🌱 I'm on a continuous journey of learning and growth in both front-end and back-end technologies.
