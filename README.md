@@ -1,21 +1,24 @@
-# Hello there, I'm Vitalii Moshkivskii! 👋
+## Hello there, I’m Vitalii Moshkivskii! 👋
 
-## About Me
-I'm a  JavaScript web developer with three years of experience creating web applications. I've had the opportunity to be involved in developing projects from scratch, focusing on creating dynamic front-end applications across various domains such as marketplaces, freelance platforms, and admin panels, as well as SPA-landings with engaging animations.
+### About Me
+I’m a passionate JavaScript web developer with four years of experience building dynamic, user-friendly applications from the ground up. My journey has taken me through various domains—marketplaces, freelance platforms, admin panels, and single-page landing sites—where I’ve crafted engaging, animation-rich front-end experiences. While my expertise lies in front-end development, I’ve also explored backend technologies like Express.js, and I’m always eager to deepen my understanding of server-side development.
 
-While I have a strong focus on front-end development, I've also dabbled in backend technologies, working with tools like Express.js, and continuously seek out new opportunities to expand my knowledge in backend development.
+### Tech Stack
+- **Languages:**  
+  - JavaScript (ES5+), TypeScript  
+- **Frameworks & Libraries:**  
+  - React, Next.js, Gatsby  
+- **UI & Styling:**  
+  - HTML5, Material-UI (MUI), styled-components, CSS, SASS/LESS, Tailwind CSS  
+- **Data Fetching & State Management:**  
+  - Redux, Redux Thunk/Saga, React Query, Axios  
+- **Backend & APIs:**  
+  - Express.js, gRPC, RESTful APIs  
 
-## Tech Stack
-- **Languages:** JavaScript (JS), TypeScript (TS)
-- **Frameworks & Libraries:** React, Redux, Next.js, Gatsby
-- **UI Design:** HTML5, Material-UI (MUI), styled-components, CSS, SASS/LESS, tailwind
-- **Data Fetching:** Redux Thunk/Saga, React Query, Axios
-- **Backend & APIs:** Express.js, gRPC, REST API
+### What I’m Up To
+- 🌱 Continuously growing in both front-end and back-end technologies  
+- 🚀 Developing responsive, interactive applications that delight users  
+- 🔍 Exploring new tools and methodologies to improve user experience and streamline development workflows  
 
-## What I'm up to
-🌱 I'm on a continuous journey of learning and growth in both front-end and back-end technologies.
-🚀 Developing responsive and interactive applications.
-🔍 I always exploring new technologies and methodologies to enhance user experience and streamline development.
-
-## Let's Connect
-Feel free to reach out to me for collaboration or just a chat about web technologies. I'm always open to discussing new projects or sharing insights into web development.
+### Let’s Connect
+I’m always open to collaborating on exciting projects or simply chatting about the latest in web development. Whether you have an idea to build together or want to exchange insights, feel free to drop me a message!
