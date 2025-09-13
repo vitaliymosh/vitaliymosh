@@ -1,24 +1,56 @@
-## Hello there, I’m Vitalii Moshkivskii! 👋
+## Hello there, I'm Vitalii Moshkivskii! 👋
 
 ### About Me
-I’m a passionate JavaScript web developer with four years of experience building dynamic, user-friendly applications from the ground up. My journey has taken me through various domains—marketplaces, freelance platforms, admin panels, and single-page landing sites—where I’ve crafted engaging, animation-rich front-end experiences. While my expertise lies in front-end development, I’ve also explored backend technologies like Express.js, and I’m always eager to deepen my understanding of server-side development.
+I'm a passionate full-stack JavaScript developer with four years of experience building dynamic, scalable applications from concept to deployment. My journey spans diverse domains—marketplaces, freelance platforms, admin panels, and interactive landing pages—where I've delivered engaging, animation-rich user experiences. While specializing in front-end development, I've evolved into full-stack capabilities with modern backend technologies and cloud infrastructure.
 
 ### Tech Stack
-- **Languages:**  
-  - JavaScript (ES5+), TypeScript  
-- **Frameworks & Libraries:**  
-  - React, Next.js, Gatsby  
-- **UI & Styling:**  
-  - HTML5, Material-UI (MUI), styled-components, CSS, SASS/LESS, Tailwind CSS  
-- **Data Fetching & State Management:**  
-  - Redux, Redux Thunk/Saga, React Query, Axios  
-- **Backend & APIs:**  
-  - Express.js, gRPC, RESTful APIs  
 
-### What I’m Up To
-- 🌱 Continuously growing in both front-end and back-end technologies  
-- 🚀 Developing responsive, interactive applications that delight users  
-- 🔍 Exploring new tools and methodologies to improve user experience and streamline development workflows  
+#### **Frontend**
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Frameworks:** React, Next.js, Gatsby, Vue.js
+- **UI & Styling:** HTML5, Material-UI (MUI), styled-components, CSS3, SASS/LESS, Tailwind CSS
+- **State Management:** Redux (Thunk/Saga), Zustand, React Query/TanStack Query
+- **Animation:** Framer Motion, GSAP
 
-### Let’s Connect
-I’m always open to collaborating on exciting projects or simply chatting about the latest in web development. Whether you have an idea to build together or want to exchange insights, feel free to drop me a message!
+#### **Backend & APIs**
+- **Runtime:** Node.js
+- **Frameworks:** Express.js, NestJS, Fastify
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **ORMs:** Prisma, TypeORM, Mongoose
+- **APIs:** RESTful, GraphQL, gRPC, WebSockets
+- **Authentication:** JWT, OAuth 2.0, Passport.js
+
+#### **DevOps & Tools**
+- **Cloud & Hosting:** AWS, Vercel, Netlify
+- **Containerization:** Docker
+- **Web Servers:** Nginx, Apache
+- **Process Management:** PM2
+- **Version Control:** Git, GitHub, GitLab
+- **CI/CD:** GitHub Actions, GitLab CI
+- **Testing:**  Playwright, E2E
+
+#### **CMS & Integrations**
+- **Headless CMS:** Strapi, Payload, Sanity
+- **E-commerce:** Shopify, WooCommerce
+- **Bots & Automation:** Telegram Bot API
+- **Payment:** Stripe, PayPal integration, AlchemyPay, Coinbase
+
+### Current Focus
+- 🌱 Deepening expertise in cloud architecture and microservices
+- 🚀 Building scalable full-stack applications with modern DevOps practices
+- 🤖 Developing intelligent automation solutions and chatbots
+- 📱 Exploring mobile development with React Native and Swift
+- 🔍 Researching emerging technologies in web development ecosystem
+
+### Featured Projects
+- 🛒 **E-commerce Platforms** - Full-stack marketplace solutions with payment integration
+- 🤖 **Telegram Bots** - Intelligent automation bots for business processes
+- 📊 **Admin Dashboards** - Complex data visualization and management systems
+- 🎨 **Interactive Web Apps** - Animation-rich, responsive user interfaces
+
+### Let's Connect
+I'm always excited to collaborate on innovative projects or discuss the latest trends in web development. Whether you're looking for a development partner, want to exchange ideas, or have an interesting challenge to solve together, I'd love to hear from you!
+
+
+---
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
