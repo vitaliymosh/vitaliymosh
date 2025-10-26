@@ -48,12 +48,5 @@ I'm a passionate full-stack JavaScript developer with four years of experience b
 - 📊 **Admin Dashboards** - Complex data visualization and management systems
 - 🎨 **Interactive Web Apps** - Animation-rich, responsive user interfaces
 
-### Let's Connect
-I'm always excited to collaborate on innovative projects or discuss the latest trends in web development. Whether you're looking for a development partner, want to exchange ideas, or have an interesting challenge to solve together, I'd love to hear from you!
-
-📫 **Get in touch:** [Your contact information]
-🌐 **Portfolio:** [Your website]
-💼 **LinkedIn:** [Your LinkedIn]
-
 ---
 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
